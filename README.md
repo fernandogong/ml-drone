@@ -1,5 +1,6 @@
-# ml-drone
-Machine learning aplicado a um dataset de drone.
+<h1 align="center">Drone</h1>
+
+<h3 align="center">Machine learning aplicado a um dataset de drone.</h3>
 
 ## Autor
 Feito por [@fernandogong](https://github.com/fernandogong).
